@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_course.xml" value="0.25" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_custom_tab.xml" value="0.17806484295845998" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_facebook.xml" value="0.17806484295845998" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_firebase.xml" value="0.27898550724637683" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_home.xml" value="0.2625" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_login.xml" value="0.275" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/activity_register.xml" value="0.2563405797101449" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/fragment_course.xml" value="0.17350557244174267" />
+        <entry key="..\:/Android2/ASM1/app/src/main/res/layout/layout_courses.xml" value="0.19398907103825136" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_course.xml" value="0.18802083333333333" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_firebase.xml" value="0.17806484295845998" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_main.xml" value="0.1685185185185185" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_mxhactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_news.xml" value="0.1685185185185185" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/activity_register.xml" value="0.1685185185185185" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/fragment_course.xml" value="0.18333333333333332" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/layout_courses.xml" value="0.21" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/map_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/layout/one_item_news.xml" value="0.1" />
+        <entry key="..\:/Android2/PS24727_NguyenVanTin_ASM1/app/src/main/res/xml/share.xml" value="0.17806484295845998" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

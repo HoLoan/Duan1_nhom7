@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#42FDC8">
+
+        <TextView
+            android:id="@+id/courseCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MOB1032"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/courseName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lap Trinh Mobile"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:gravity="right"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#42FDC8">
+
+        <TextView
+            android:id="@+id/courseTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="07:00 - 09:00"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/courseRoom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Room: 000"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:gravity="right"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        >
+
+        <ImageButton
+            android:id="@+id/btnDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_delete_forever_24"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:background="#FFA50A"
+            android:padding="3dp"/>
+
+        <ImageButton
+            android:id="@+id/btnEdit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_baseline_edit_24"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:background="#FFA50A"
+            android:padding="3dp"/>
+    </LinearLayout>
+
+</LinearLayout>

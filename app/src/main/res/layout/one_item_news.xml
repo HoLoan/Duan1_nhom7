@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#DB18F1"
+    android:layout_margin="10dp"
+    >
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tin tức hôm nay"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="#EA197A"/>
+    <TextView
+        android:layout_margin="40dp"
+        android:gravity="center"
+        android:id="@+id/tvtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#25D5F4"
+        android:textSize="40sp" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tvcreationdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="#F8F533"
+        android:textSize="40sp" />
+</LinearLayout>
